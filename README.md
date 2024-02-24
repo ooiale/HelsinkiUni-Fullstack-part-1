@@ -1,5 +1,5 @@
-Submission of the exercises 2.1 - 2.20
+Submission of the exercises 1.1 - 1.14
 contains the following applications:
   - courseinfo
-  - phonebook
-  - data for countries
+  - unicafe
+  - anecdotes
